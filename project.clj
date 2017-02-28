@@ -7,4 +7,5 @@
                  [proto-repl "0.3.1"]
                  [org.clojure/data.json "0.2.6"]
                  [clj-time "0.13.0"]
-                 [clj-http "2.3.0"]])
+                 [clj-http "2.3.0"]]
+  :aot :all)
